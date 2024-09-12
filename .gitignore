@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 # Virtual environment folders
-venv/*
 venv/
+venv/Lib/*
 env/
 ENV/
 venv.bak/
