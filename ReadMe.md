@@ -28,6 +28,6 @@ Program Run:
 Generated PDF result: 
 ![Project Result](pdf_generated.png)
 
-Demo: 
+Demo: <br>
 ![Demo](app1.gif)
 
