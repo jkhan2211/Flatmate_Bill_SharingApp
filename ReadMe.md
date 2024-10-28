@@ -20,14 +20,14 @@ Objects: Bill:
 ```
 
 
-###### Results and Output
+#### Results and Output
 
-Program Run: 
+###### Program Run: 
 ![Project Screenshot](run_program.png)
 
-Generated PDF result: 
+###### Generated PDF result: 
 ![Project Result](pdf_generated.png)
 
-Demo: <br>
+###### Demo: <br>
 ![Demo](app1.gif)
 
