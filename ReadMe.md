@@ -21,3 +21,13 @@ Objects: Bill:
 
 
 ###### Results and Output
+
+Program Run: 
+![Project Screenshot](run_program.png)
+
+Generated PDF result: 
+![Project Result](pdf_generated.png)
+
+Demo: 
+![Demo](app1.gif)
+

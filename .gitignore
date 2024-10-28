@@ -89,3 +89,4 @@ dmypy.json
 
 # SQLite database
 *.sqlite3
+
